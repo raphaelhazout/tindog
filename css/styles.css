@@ -153,10 +153,11 @@ h3{
     .rotated{
         transform:none;
         position: static;
-        width: 60%;
+        width: 30%;
     }
     #title{
       text-align: center;
+      font-size: xx-large;
     }
 
 
