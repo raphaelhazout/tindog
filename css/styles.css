@@ -27,6 +27,7 @@ h3{
     transform: rotate(25deg);
     width: 20%;
     position: absolute;
+    right: 20%;
 }
 /* Navigationbar */
 .navbar{
@@ -140,4 +141,23 @@ h3{
     font-size: xx-large;
     display: inline-block;
     padding-right: 30px;
+}
+.signature{
+    color: #8f8f8f;
+}
+
+
+
+
+@media (max-width:995px) {
+    .rotated{
+        transform:none;
+        position: static;
+        width: 60%;
+    }
+    #title{
+      text-align: center;
+    }
+
+
 }
