@@ -157,8 +157,34 @@ h3{
     }
     #title{
       text-align: center;
-      font-size: xx-large;
     }
-
-
+    h1 {  
+        font-family: 'Montserrat';
+        font-size: 2rem;
+        line-height: 1.5;
+    }
+    .download-button{
+       font-size: medium;
+    }
+    .download-button2{
+        font-size: medium;
+    }
+    .testimonial-text,.ctaint,.price{
+        font-size: 1.7rem;
+        line-height: 1.5;
+    }
+    .pricing-heading{
+        font-size: 2rem;
+    }
+    .press-logo{
+        width:10%;
+        margin:25px 20px 50px;
+    }
+    .card-body,.card-btn {
+        font-size: medium;
+    }
+    .icons{
+        text-align: center;
+        padding: 10px;
+    }
 }
